@@ -1,6 +1,6 @@
 ### Olá, espero que encontre o que precisa por aqui. 👋
 
--  Atualmente atuo como Quality Assurance (QA). (Sou QA, não sou só "tester", hein). 🤨
+-  Atualmente atuo como Quality Assurance (QA). 
 - ☕ Minha linguagem favorita é o Java ☕
 - ⚡ Mas me dou muito bem com seu irmão (só de nome) Javascript.
 - 📚 Faço o curso de Sistemas para a Internet no Senac.
