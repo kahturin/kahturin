@@ -6,7 +6,7 @@
 - 📚 Faço o curso de Sistemas para a Internet no Senac.
 - 📍  Me escondo na cidade de São Paulo - capital.
 
-- 💻 Faço o uso de algumas técnologias para o desenvolvimento de automações, como Selenium, Appium, Cypress, Cucumber, AndroidStudio (a lista vai só aumentar). 
+- 💻 Faço o uso de algumas técnologias para o desenvolvimento de automações, como Selenium, Appium, Cypress, Cucumber, AndroidStudio (a lista só aumenta). 
 
 <div align="center">
   <a href="https://github.com/kahturin">
