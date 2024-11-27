@@ -1,7 +1,7 @@
 ### Olá, espero que encontre o que precisa por aqui. 👋
 
 -  Atualmente atuo como Quality Assurance (QA). 
-- ☕ Minha linguagem favorita é o Java ☕
+- ☕ Minha linguagem favorita é Java ☕
 - ⚡ Mas me dou muito bem com seu irmão (só de nome) Javascript.
 - 📚 Faço o curso de Sistemas para a Internet no Senac.
 - 📍  Me escondo na cidade de São Paulo - capital.
